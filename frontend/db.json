@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "/static/media/defaultImage.fc6aec68.jpg",
+      "name": "painting",
+      "category": "paintings",
+      "price": 12,
+      "description": "Hand Painting"
+    }
+  ]
+}
